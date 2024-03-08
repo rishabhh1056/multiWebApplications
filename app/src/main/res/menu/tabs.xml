@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/tab_home"
+        android:icon="@drawable/wallpaper"
+        android:title="Wallpapers" />
+    <item
+        android:id="@+id/tab_alarm"
+        android:icon="@drawable/document"
+        android:title="Docs convert" />
+    <item
+        android:id="@+id/tab_bread"
+        android:icon="@drawable/game"
+        android:title="Games" />
+    <item
+        android:id="@+id/tab_cart"
+        android:icon="@drawable/caption"
+        android:title="Ai Caption" />
+</menu>
